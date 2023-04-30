@@ -1,2 +1,2 @@
-# SQL_Projects
-This repository contains all SQL projects with all necessary files
+# SQL_Project_Sales_Analysis_Kaggle
+
